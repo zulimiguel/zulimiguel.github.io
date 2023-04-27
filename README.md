@@ -5,6 +5,7 @@
 * [2.Que construí]()
 * [3.Objetivo del proyecto]()
 * [4.Link al Demo]()
+
 ***
 ## Intro
 
@@ -13,5 +14,5 @@ En este proyecto, se utilizo HTML y CSS para construir una clonación de la inte
 # ¿Que construí?
 
 El proyecto esta enfocado en la construcción de la interfaz de Google tomando especial atención a su UI/UX para replicar su comportamiento y estilo al 100%. La interfaz se encuentrada dividida en las siguientes secciones:
-*# Header: Sección donde se encuentra la navegación principal de Google,como la foto de perfil del usuario, íconos y menú.
-*# Main: Sección del contenedor para los elementos 
+* Header: Sección donde se encuentra la navegación principal de Google,como la foto de perfil del usuario, íconos y menú.
+* Main: Sección del contenedor para los elementos 
