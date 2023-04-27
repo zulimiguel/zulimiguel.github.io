@@ -2,6 +2,6 @@
 ###### Clone de Google usando HTML y CSS como practica de un bootcamp con Tecnolochicas pro.
 ## Índice
 [1.Intro]()
-[2.Que construí()
+[2.Que construí]()
 [3.Objetivo del proyecto]()
 [4.Link al Demo]()
